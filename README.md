@@ -1,2 +1,2 @@
-# has-thinking
+# has-ideas
 Thinking on HAS
